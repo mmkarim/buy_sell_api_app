@@ -1,0 +1,2 @@
+class Cash < Balance
+end
